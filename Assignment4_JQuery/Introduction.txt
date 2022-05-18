@@ -1,28 +1,11 @@
-What is jQuery?
-jQuery is a lightweight, "write less, do more", JavaScript library.
+jQuery Mobile is an HTML5 based user interface system designed to make responsive websites and apps that are accessible on all smartphone, tablet, and desktop devices.
 
-The purpose of jQuery is to make it much easier to use JavaScript on your website.
+Why jQuery Mobile?
 
-jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code.
+jQuery Mobile framework takes the “write less, do more” mantra to the next level. Instead of writing unique applications for each mobile device or OS, it allows you to design a single highly-branded responsive website or application that will work on all popular smartphone, tablet, and desktop platforms. It uses features of jQuery and jQuery UI for making mobile-compatible websites. It is used for making responsive websites and apps. It is open-source and a cross-platform-compatible framework.
 
-jQuery also simplifies a lot of the complicated things from JavaScript, like AJAX calls and DOM manipulation.
+cdn links
 
-The jQuery library contains the following features:
-
-HTML/DOM manipulation
-CSS manipulation
-HTML event methods
-Effects and animations
-AJAX
-Utilities
-Tip: In addition, jQuery has plugins for almost any task out there.
-
-Why jQuery?
-There are lots of other JavaScript libraries out there, but jQuery is probably the most popular, and also the most extendable.
-
-Many of the biggest companies on the Web use jQuery, such as:
-
-Google
-Microsoft
-IBM
-Netflix
+<link rel=”stylesheet” href=”http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css” />
+<script src=”http://code.jquery.com/jquery-1.11.1.min.js”></script>
+<script src=”http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js”></script>
